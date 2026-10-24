@@ -1,0 +1,3 @@
+# Sample site: keep out of search results.
+User-agent: *
+Disallow: /
